@@ -1,0 +1,1 @@
+BestRun(run_id='6', objective=0.6636771300448431, hyperparameters={'learning_rate': 3.06941812255872e-05, 'num_train_epochs': 3, 'seed': 33, 'per_device_train_batch_size': 64})
